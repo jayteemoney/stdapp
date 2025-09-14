@@ -29,7 +29,7 @@ Before you begin, you need to install the following tools:
 ## 1. Install developer tools
 
 You can install the developer tools natively or use Dev Containers.
-
+...
 ### Option 1: Natively install developer tools
 
 #### 1.1 Starkup
